@@ -1,19 +1,11 @@
 # Meshlab Overview
  	
- 
- 	
-The Visualization and Computer Graphics Library  - http://vcg.isti.cnr.it/vcglib/ ~100k linii
+MeshLab - http://meshlab.sourceforge.net/ ~15k lines
 
-MeshLab - http://meshlab.sourceforge.net/
-
-2005 - projekt studencki
-2 kwiecein 2014 last version
--bez porblemow z instalacja
--wersje na iOS i android??
+The Visualization and Computer Graphics Library  - http://vcg.isti.cnr.it/vcglib/ ~ 100k lines
 
 Features
-* Interac
-* tive selection and deletion of portion of the mesh. Even for large models.
+* Interactive selection and deletion of portion of the mesh. Even for large models.
 * Painting interface for selecting, smoothing and coloring meshes.
 
 Input/output in many formats:
@@ -65,26 +57,5 @@ The history of the all performed cleaning/editing actions can be re-played on di
 
 Extendible plugins based architecture, writing new mesh processing functions, colorization filters and support for different file formats is quite easy! Look at PlugIn Samples
 
-1. Navigation
 
-ctrl lpm - move
-shift lpm - resize
-shift wheel - perspektywa
-ctrl h - reset
-
-2 light
-ctrl shift lpm - kierunek swiatla
-double lighting 
-fany lighting - two diff colors
-
-3. filters
-  * remeshing
-  * selecting/layer cutting
-
-4. search
-
-5 selection tools problems
-
-6. topological measurements
-
-7. https://www.youtube.com/user/MrPMeshLabTutorials/videos - 50 filmow
+https://www.youtube.com/user/MrPMeshLabTutorials/videos - 50 tutorials
